@@ -1,0 +1,8 @@
+---
+projectName: EOSC
+dependencies:
+- https://github.com/wurstscript/wurstStdlib2
+buildMapData:
+  name: "Eternal Odyssey: Sunken City"
+  fileName: EOSC
+  author: SinisterLuffy
